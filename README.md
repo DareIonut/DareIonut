@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Dare Ionut Daniel  
 
-<!--
-**DareIonut/DareIonut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | DevOps Enthusiast | Problem Solver**  
+Passionate about building scalable systems, cloud deployments, and clean user experiences.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Languages:** TypeScript, JavaScript, Python, Bash  
+- **Frontend:** React, HTML, CSS/SCSS, Tailwind, Bootstrap  
+- **Backend:** Node.js, Express, MySQL, MongoDB  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS (EKS, EC2), GitLab CI/CD, Linux  
+
+---
+
+### 🌍 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/dareionutdaniel)  
+- 📷 [Instagram](https://instagram.com/dareionutdaniel)  
+
+---
+
+✨ *“Always learning, always building.”*
